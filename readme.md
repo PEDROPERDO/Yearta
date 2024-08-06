@@ -1,3 +1,7 @@
+## 🏙️ Jakarta : Year
+* One of The Three Data Analyst Project About Jakarta (Not All, But Part of Jakarta)
+* Others ? [Moda Raya Terpadu](https://github.com/Kelnit/Yan) and [Trans Jakarta on April 2023](https://github.com/Kelnit/Yearly)
+
 ### 🔍 Question
 * How Commuter Line Jabodetabek Distribution on Particular Day ?
 * Commuter Line, Route, Statiun, Destination Correlation
@@ -15,7 +19,7 @@
 > ![image](https://github.com/user-attachments/assets/bf1a0413-3174-4c92-8877-2ec1c28be655)
 > ![image](https://github.com/user-attachments/assets/2b8602e9-6691-452e-aa8e-734a0d5e6b3d)
 * Jakarta Kota - Bogor Route is The Busiest Route on This Day, Followed by Rangkas Bitung and Tanah Abang
-* Interestingly, Each Route Have Their Go and Back Route in Followed, Example : Jakarta Kota - Bogor Being Top 2 Busiest Route
+* Interestingly, Each Route Have Their Back and Forth Trip in Particular Route, Example : Jakarta Kota - Bogor Being Top 2 Busiest Route
 > ![image](https://github.com/user-attachments/assets/fec04b6c-739d-48ee-af91-ec048fd1bf8b)
 * Rangkas Bitung - Merak Being The Highest Duration Trip With More Than 100 Minute
 * Followed by Rangkas Bitung - Tanah Abang With 60 Minute
@@ -28,14 +32,14 @@
 
 #### Hour
 > ![image](https://github.com/user-attachments/assets/b209fe76-18f4-437a-a63f-817d8ea6753a)
-* Rush Hour Happen on Morning and Evening, Where People Get Back From Office, School to Their Home or The Others
+* Rush Hour Happen on Morning and Evening, Where People Get Back From Office, School to Their Home or Going to School or Office
 * 7 A.M Being The Highest Total Trip at 1.154 Total Trip
 
 ### Final
 ```
 Trains are One of the Vital Modes of Transportation in the Jabodetabek area, especially Bogor - Jakarta and between Jakarta Regions,
 Stations such as Manggarai, Tanah Abang are Two of the 100 Stations That Will be Experiencing 'rush hours' at Certain Moment or Hour,
-Example: Manggarai, at Working Hours , Tanah Abang at Eid al-Fitr
+Example: Manggarai, at Working Hours (Round Trip), Tanah Abang at Eid al-Fitr
 It is important for the Government to Ensure that there are no delays, While Collaborating With People to Maintain Station and Train Facilities
 ```
 ### 🧨 More on [Notebook](Year.ipynb) And [Google Data Studio](https://lookerstudio.google.com/reporting/47b8280f-3964-4cb5-9b37-3602a4936446)
