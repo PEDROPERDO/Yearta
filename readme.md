@@ -32,9 +32,10 @@
 * 7 A.M Being The Highest Total Trip at 1.154 Total Trip
 
 ### Final
-* Trains are one of the vital modes of transportation for the Jabodetabek area, especially Bogor - Jakarta and between Jakarta regions,
-* stations such as Manggarai, Tanah Abang are two of the 100 stations that will experience 'rush hours' at certain moments,
-* for example: Manggarai, working hours (going home). / Go), Tanah Abang (Eid al-Fitr)
-it is important for the government to ensure that there are no delays and maintain station and train facilities
-
+```
+Trains are One of the Vital Modes of Transportation in the Jabodetabek area, especially Bogor - Jakarta and between Jakarta Regions,
+Stations such as Manggarai, Tanah Abang are Two of the 100 Stations That Will be Experiencing 'rush hours' at Certain Moment or Hour,
+Example: Manggarai, at Working Hours , Tanah Abang at Eid al-Fitr
+It is important for the Government to Ensure that there are no delays, While Collaborating With People to Maintain Station and Train Facilities
+```
 ### 🧨 More on [Notebook](Year.ipynb) And [Google Data Studio](https://lookerstudio.google.com/reporting/47b8280f-3964-4cb5-9b37-3602a4936446)
